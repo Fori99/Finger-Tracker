@@ -11,11 +11,7 @@ namespace DarkDemo
 {
     class Funksione_MySql
     {
-        static private MySqlConnection lidhja = new MySqlConnection("Server = tonic.o2switch.net; " +
-                                                                    "Port = 3306; " +
-                                                                    "Database = lafe6113_fingertracker; " +
-                                                                    "UID = lafe6113_fingertracker_admin; " +
-                                                                    "Password = oMdXu525rg; ");
+        static private MySqlConnection lidhja = new MySqlConnection("");
 
         static public void Rifresko(DataGridView dataGridView)
         {
