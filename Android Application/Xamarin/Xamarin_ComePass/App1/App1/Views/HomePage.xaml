@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.HomePage"
+             Title="Home">
+
+    <ContentPage.Content>
+
+        <StackLayout>
+
+            <StackLayout HorizontalOptions="StartAndExpand" VerticalOptions="Start" Margin="10">
+
+                <Label Text="Nearby Me!" TextColor="DarkGray" FontSize="16" FontAttributes="Bold"/>
+
+            </StackLayout>
+
+            <CollectionView x:Name ="myItem">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Margin="20" Padding="0" >
+                            <Grid>
+                                <Frame BackgroundColor="White" CornerRadius="15" HasShadow="True" HeightRequest="95" Margin="0" Padding="0" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+                                    <StackLayout BackgroundColor="AliceBlue" Padding="0" Margin="20, 10, 5, 5">
+                                        <Label Text="{Binding Emri}" TextColor="DarkGray" FontSize="16" FontAttributes="Bold" Margin="100, 0, -10, 0"/>
+                                        <Label Text="{Binding Pershkrimi}" TextColor="DarkGray" FontSize="12" FontAttributes="Bold" Margin="100, -10, -10, 0"/>
+                                    </StackLayout>
+                                </Frame>
+                                <StackLayout Margin="15, -25, 0, 0">
+                                    <Frame BackgroundColor="Red" HasShadow="True" WidthRequest="100" HeightRequest="100" Margin="0" Padding="0" VerticalOptions="CenterAndExpand" HorizontalOptions="Start" >
+                                        <Image Aspect="AspectFill" Source="{Binding URL}"/>
+                                    </Frame>
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

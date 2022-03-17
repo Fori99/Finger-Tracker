@@ -1,0 +1,52 @@
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\bin\Debug\DarkDemo.exe.config
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\bin\Debug\DarkDemo.exe
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\bin\Debug\DarkDemo.pdb
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\bin\Debug\MySql.Data.dll
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\obj\Debug\FingerTracker.csprojResolveAssemblyReference.cache
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\obj\Debug\DarkDemo.Form1.resources
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\obj\Debug\DarkDemo.Form2.resources
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\obj\Debug\DarkDemo.Form3.resources
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\obj\Debug\DarkDemo.Properties.Resources.resources
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\obj\Debug\FingerTracker.csproj.GenerateResource.Cache
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\obj\Debug\FingerTracker.csproj.CoreCompileInputs.cache
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\obj\Debug\DarkDemo.exe
+C:\Users\German\Documents\Diploma\DarkDemoVS\DarkDemo\obj\Debug\DarkDemo.pdb
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\bin\Debug\FingerTracker.exe.config
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\bin\Debug\FingerTracker.exe
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\bin\Debug\FingerTracker.pdb
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\bin\Debug\MySql.Data.dll
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Debug\FingerTracker.csprojResolveAssemblyReference.cache
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Debug\DarkDemo.Form1.resources
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Debug\DarkDemo.Form2.resources
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Debug\DarkDemo.Form3.resources
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Debug\FingerTracker.Properties.Resources.resources
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Debug\FingerTracker.csproj.GenerateResource.Cache
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Debug\FingerTracker.csproj.CoreCompileInputs.cache
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Debug\FingerTracker.exe
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Debug\FingerTracker.pdb
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\bin\Debug\FingerTracker.exe.config
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\bin\Debug\FingerTracker.exe
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\bin\Debug\FingerTracker.pdb
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\FingerTracker.csproj.AssemblyReference.cache
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\DarkDemo.Form1.resources
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\DarkDemo.Form2.resources
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\DarkDemo.Form3.resources
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\FingerTracker.Properties.Resources.resources
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\FingerTracker.csproj.GenerateResource.cache
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\FingerTracker.csproj.CoreCompileInputs.cache
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\FingerTracker.csproj.CopyComplete
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\FingerTracker.exe
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Debug\FingerTracker.pdb
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\bin\Debug\FingerTracker.exe.config
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\bin\Debug\FingerTracker.exe
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\bin\Debug\FingerTracker.pdb
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\FingerTracker.csproj.AssemblyReference.cache
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\DarkDemo.Form1.resources
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\DarkDemo.Form2.resources
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\DarkDemo.Form3.resources
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\FingerTracker.Properties.Resources.resources
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\FingerTracker.csproj.GenerateResource.cache
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\FingerTracker.csproj.CoreCompileInputs.cache
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\FingerTracker.csproj.CopyComplete
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\FingerTracker.exe
+E:\Projekte\Finger Tracker 2.0\Desktop Application\FingerTracker\obj\Debug\FingerTracker.pdb

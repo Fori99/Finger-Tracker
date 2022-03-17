@@ -1,0 +1,886 @@
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\App1.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\App1.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1.apk
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1.aab
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1-Signed.aab
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk.idsig
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\App1.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\App1.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\build.props
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\adb.props
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\_VerifyXamarinAndroidSupportVersions.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_BuildLibraryImportsCache.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res.flag
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\12\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\13\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\17\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\19\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\26\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\30\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\32\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\33\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\34\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\38\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\39\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\R.txt
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\R.cs.flag
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.csproj.CoreCompileInputs.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.csproj.CopyComplete
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\com.companyname.app1.apk
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\base.zip
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\com.companyname.app1.aab
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\com.companyname.app1.apks
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\layout\tabbar.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\layout\toolbar.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\values\styles.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\values\colors.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-hdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-hdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-mdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-mdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xhdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xhdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxhdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxhdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxxhdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\drawable\anonymus.jpg
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\uploadflags.txt
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\resolvedassemblies.hash
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\link.flag
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\App1.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\App1.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\App1.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\App1.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\BouncyCastle.Crypto.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\FormsViewGroup.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\FormsViewGroup.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Google.Protobuf.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Google.Protobuf.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Java.Interop.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\K4os.Compression.LZ4.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\K4os.Compression.LZ4.Streams.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\K4os.Hash.xxHash.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Microsoft.CSharp.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Microsoft.CSharp.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Mono.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Mono.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Mono.Security.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Mono.Security.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\mscorlib.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\mscorlib.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\MySql.Data.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Renci.SshNet.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\SshNet.Security.Cryptography.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Buffers.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Configuration.ConfigurationManager.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Core.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Core.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Data.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Data.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Drawing.Common.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Drawing.Common.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Net.Http.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Net.Http.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Numerics.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Numerics.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Runtime.Serialization.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Runtime.Serialization.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.AccessControl.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.Permissions.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.Principal.Windows.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Text.Encoding.CodePages.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Text.Encoding.CodePages.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Transactions.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Transactions.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Xml.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Xml.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Xml.XPath.XmlDocument.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Xml.XPath.XmlDocument.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Ubiety.Dns.Core.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Compat.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Design.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Fragment.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Loader.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Essentials.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Zstandard.Net.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.armeabi-v7a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.arm64-v8a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.armeabi-v7a-managed.inc
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.arm64-v8a-managed.inc
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.armeabi-v7a-shared.inc
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.shared.inc
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\AndroidManifest.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\__environment__.txt
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\MonoRuntimeProvider.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\machine.config
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\mono.android.jar
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\static.flag
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\buildid.txt
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.armeabi-v7a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.arm64-v8a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\compat\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\coordinatorlayout\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\customtabs\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\design\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\mediacompat\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\transition\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\appcompat\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\cardview\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\recyclerview\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LineView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PathView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RectView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ad68f59cd763e462\MainActivity.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\app\ApplicationRegistration.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\MonoPackageManager_Resources.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\packaged_resources
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\com\companyname\app1\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.armeabi-v7a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.arm64-v8a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.armeabi-v7a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.arm64-v8a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.armeabi-v7a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.arm64-v8a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.armeabi-v7a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.arm64-v8a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\classes.dex
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_CleanIntermediateIfNeeded.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_CompileToDalvik.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_ConvertCustomView.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_ConvertResourcesCases.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_GenerateJavaStubs.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_GeneratePackageManagerJava.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\drawable\banana.jpg
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\layout\catalogitemsstyles.css
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.csproj.AssemblyReference.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\drawable\ft_logo.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86_64.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86-managed.inc
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86_64-managed.inc
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.x86.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.x86_64.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.x86.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.x86_64.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86_64.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.x86.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.x86_64.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.x86.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.x86_64.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\app_shared_libraries\x86\libxamarin-app.so
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\app_shared_libraries\x86_64\libxamarin-app.so
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\MySqlConnector.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\drawable\employee.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-hdpi\ft_logo.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-mdpi\ft_logo.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xhdpi\ft_logo.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxhdpi\ft_logo.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxxhdpi\ft_logo.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\App1.Android.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\App1.Android.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1.apk
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1.aab
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1-Signed.aab
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\com.companyname.app1-Signed.apk.idsig
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\App1.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Release\App1.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\build.props
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\adb.props
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.csproj.AssemblyReference.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\_VerifyXamarinAndroidSupportVersions.stamp
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_BuildLibraryImportsCache.stamp
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res.flag
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\12\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\13\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\17\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\19\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\26\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\30\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\32\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\33\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\34\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\38\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\lp\39\jl\files.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\R.txt
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\R.cs.flag
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.csproj.CoreCompileInputs.cache
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.csproj.CopyComplete
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\App1.Android.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\com.companyname.app1.apk
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\base.zip
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\com.companyname.app1.aab
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\com.companyname.app1.apks
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\layout\tabbar.xml
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\layout\toolbar.xml
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\values\styles.xml
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\values\colors.xml
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-hdpi\icon.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-hdpi\launcher_foreground.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-mdpi\icon.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-mdpi\launcher_foreground.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xhdpi\icon.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xhdpi\launcher_foreground.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxhdpi\icon.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxhdpi\launcher_foreground.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxxhdpi\icon.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\drawable\anonymus.jpg
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\drawable\banana.jpg
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\layout\catalogitemsstyles.css
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\drawable\ft_logo.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\drawable\employee.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-hdpi\ft_logo.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-mdpi\ft_logo.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xhdpi\ft_logo.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxhdpi\ft_logo.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\res\mipmap-xxxhdpi\ft_logo.png
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\uploadflags.txt
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\resolvedassemblies.hash
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\link.flag
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\App1.Android.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\App1.Android.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\App1.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\App1.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\BouncyCastle.Crypto.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\FormsViewGroup.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\FormsViewGroup.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Google.Protobuf.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Google.Protobuf.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Java.Interop.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\K4os.Compression.LZ4.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\K4os.Compression.LZ4.Streams.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\K4os.Hash.xxHash.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Microsoft.CSharp.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Microsoft.CSharp.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Mono.Android.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Mono.Android.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Mono.Security.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Mono.Security.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\mscorlib.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\mscorlib.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\MySql.Data.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\MySqlConnector.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Renci.SshNet.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\SshNet.Security.Cryptography.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Buffers.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Configuration.ConfigurationManager.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Core.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Core.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Data.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Data.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Drawing.Common.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Drawing.Common.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Net.Http.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Net.Http.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Numerics.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Numerics.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Runtime.Serialization.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Runtime.Serialization.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.AccessControl.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.Permissions.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Security.Principal.Windows.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Text.Encoding.CodePages.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Text.Encoding.CodePages.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Transactions.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Transactions.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Xml.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Xml.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Xml.XPath.XmlDocument.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\System.Xml.XPath.XmlDocument.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Ubiety.Dns.Core.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Compat.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Design.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Fragment.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Loader.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Essentials.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\Zstandard.Net.dll
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.arm64-v8a.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.armeabi-v7a.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86_64.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.arm64-v8a-managed.inc
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.armeabi-v7a-managed.inc
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86-managed.inc
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86_64-managed.inc
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.armeabi-v7a-shared.inc
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.shared.inc
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\AndroidManifest.xml
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\__environment__.txt
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\MonoRuntimeProvider.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\assets\machine.config
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\mono.android.jar
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\static.flag
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\buildid.txt
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.arm64-v8a.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.armeabi-v7a.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.x86.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.x86_64.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\compat\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\coordinatorlayout\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\customtabs\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\design\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\mediacompat\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\transition\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\appcompat\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\cardview\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\recyclerview\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LineView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PathView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RectView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ad68f59cd763e462\MainActivity.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\app\ApplicationRegistration.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\mono\MonoPackageManager_Resources.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\packaged_resources
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\src\com\companyname\app1\R.java
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.arm64-v8a.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.armeabi-v7a.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.x86.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.x86_64.s
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.arm64-v8a.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.armeabi-v7a.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\typemaps.x86_64.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.arm64-v8a.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.armeabi-v7a.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.x86.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\environment.x86_64.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.arm64-v8a.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.armeabi-v7a.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.x86.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\compressed_assemblies.x86_64.o
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\app_shared_libraries\x86\libxamarin-app.so
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\app_shared_libraries\x86_64\libxamarin-app.so
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\android\bin\classes.dex
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_CleanIntermediateIfNeeded.stamp
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_CompileToDalvik.stamp
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_ConvertCustomView.stamp
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_ConvertResourcesCases.stamp
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_GenerateJavaStubs.stamp
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_GeneratePackageManagerJava.stamp
+E:\Projekte\Finger Tracker 2.0\Android Application\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp

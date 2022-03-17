@@ -1,0 +1,27 @@
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\bin\Release\DarkDemo.exe
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\bin\Release\MySql.Data.dll
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Release\FingerTracker.csprojResolveAssemblyReference.cache
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Release\DarkDemo.Form1.resources
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Release\DarkDemo.Form2.resources
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Release\DarkDemo.Form3.resources
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Release\FingerTracker.csproj.GenerateResource.Cache
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Release\FingerTracker.csproj.CoreCompileInputs.cache
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\bin\Release\FingerTracker.exe.config
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\bin\Release\FingerTracker.exe
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\bin\Release\FingerTracker.pdb
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Release\FingerTracker.Properties.Resources.resources
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Release\FingerTracker.exe
+C:\Users\German\Documents\Diploma\Desktop APP\FingerTracker\obj\Release\FingerTracker.pdb
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\bin\Release\FingerTracker.exe.config
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\bin\Release\FingerTracker.exe
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\bin\Release\FingerTracker.pdb
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\FingerTracker.csproj.AssemblyReference.cache
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\DarkDemo.Form1.resources
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\DarkDemo.Form2.resources
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\DarkDemo.Form3.resources
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\FingerTracker.Properties.Resources.resources
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\FingerTracker.csproj.GenerateResource.cache
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\FingerTracker.csproj.CoreCompileInputs.cache
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\FingerTracker.csproj.CopyComplete
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\FingerTracker.exe
+E:\Projekte\Finger Tracker\Dipllome FingerTracker\Desktop APP\FingerTracker\obj\Release\FingerTracker.pdb

@@ -1,0 +1,1041 @@
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\App1.Android.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\App1.Android.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1.apk
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1.aab
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.aab
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk.idsig
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\App1.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\App1.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\build.props
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\adb.props
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.csprojAssemblyReference.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res.flag
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\12\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\13\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\17\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\19\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\26\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\30\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\32\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\33\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\34\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\38\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\39\jl\files.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\R.txt
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\R.cs.flag
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.csproj.CopyComplete
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apk
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.aab
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apks
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\uploadflags.txt
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\App1.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\App1.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\__environment__.txt
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\static.flag
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\buildid.txt
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ad68f59cd763e462\MainActivity.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\com\companyname\app1\R.java
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\drawable\anonymus.jpg
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\drawable\logo.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\App1.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\App1.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1.apk
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1.aab
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.aab
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk.idsig
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\App1.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\bin\Debug\App1.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\build.props
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\adb.props
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.csprojAssemblyReference.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res.flag
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\12\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\13\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\17\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\19\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\26\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\30\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\32\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\33\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\34\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\38\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\lp\39\jl\files.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\R.txt
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\R.cs.flag
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.csproj.CoreCompileInputs.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.csproj.CopyComplete
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\App1.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apk
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\base.zip
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.aab
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\com.companyname.app1.apks
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\layout\tabbar.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\layout\toolbar.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\values\styles.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\values\colors.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\drawable\logo.png
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\res\drawable\anonymus.jpg
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\uploadflags.txt
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\resolvedassemblies.hash
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\App1.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\App1.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\App1.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\BouncyCastle.Crypto.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Google.Protobuf.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Google.Protobuf.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Java.Interop.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\K4os.Compression.LZ4.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\K4os.Compression.LZ4.Streams.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\K4os.Hash.xxHash.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Microsoft.CSharp.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Microsoft.CSharp.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Mono.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Mono.Security.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\mscorlib.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\mscorlib.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\MySql.Data.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\netstandard.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Renci.SshNet.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\SshNet.Security.Cryptography.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Buffers.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Collections.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Configuration.ConfigurationManager.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Core.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Core.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Data.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Data.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Diagnostics.TraceSource.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Globalization.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.FileSystem.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.IO.FileSystem.Primitives.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Linq.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Memory.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Net.NameResolution.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Net.Primitives.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Net.Sockets.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Reflection.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Security.AccessControl.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Security.Cryptography.Algorithms.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Security.Cryptography.Primitives.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Security.Cryptography.ProtectedData.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Security.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Security.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Security.Permissions.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Security.Principal.Windows.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Text.Encoding.CodePages.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Text.Encoding.CodePages.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Text.Encoding.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Text.Encoding.Extensions.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Threading.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Threading.Thread.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Threading.ThreadPool.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Threading.Timer.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Transactions.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.ReaderWriter.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.XmlDocument.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.XPath.XmlDocument.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\System.Xml.XPath.XmlDocument.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Ubiety.Dns.Core.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\Zstandard.Net.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.x86.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.x86_64.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.shared.inc
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\AndroidManifest.xml
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\__environment__.txt
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\assets\machine.config
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\mono.android.jar
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\static.flag
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\buildid.txt
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.arm64-v8a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.x86.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.x86_64.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\compat\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\design\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\transition\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ad68f59cd763e462\MainActivity.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\packaged_resources
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\src\com\companyname\app1\R.java
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.x86.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\typemaps.x86_64.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.arm64-v8a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.x86.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\environment.x86_64.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\android\bin\classes.dex
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp

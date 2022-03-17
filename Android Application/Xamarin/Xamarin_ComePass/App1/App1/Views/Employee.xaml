@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.Employee">
+
+    <ContentPage.Content>
+        <StackLayout x:Name="MasterLayout">
+            <StackLayout.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#2196f3" Offset="0.1"/>
+                    <GradientStop Color="#1b1e7b" Offset="1.0"/>
+                </LinearGradientBrush>
+            </StackLayout.Background>
+            
+            <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                <Image x:Name="logoIcon" Source="employee.png" Margin="0, 80, 0, 0"/>
+                <Label x:Name="emri_label" Text="{Binding emri_property}" TextColor="White" FontSize="Large" HorizontalTextAlignment="Center"/>
+                <Label x:Name="pozicioni_label" Text="{Binding pozicioni_property}" TextColor="White" FontSize="Large" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+
+            <StackLayout x:Name="LoginEntries" VerticalOptions="StartAndExpand">
+                <StackLayout.Padding>
+                    <OnIdiom x:TypeArguments="Thickness">
+                        <OnIdiom.Phone>40, 0, 40, 0</OnIdiom.Phone>
+                        <OnIdiom.Tablet>140, 150, 140, 0</OnIdiom.Tablet>
+                    </OnIdiom>
+                </StackLayout.Padding>
+
+                <!-- <ActivityIndicator x:Name="activitySpinner" Color="White" IsRunning="True"/> -->
+
+                <Label x:Name="oret_label" Text="{Binding oret_property}" TextColor="White" FontSize="Large" HorizontalTextAlignment="Center"/>
+                <Label x:Name="paga_per_ore_label" Text="{Binding paga_per_ore_property}" TextColor="White" FontSize="Large" HorizontalTextAlignment="Center"/>
+                <Label x:Name="paga_totale_label" Text="{Binding paga_totale_property}" TextColor="White" FontSize="Large" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

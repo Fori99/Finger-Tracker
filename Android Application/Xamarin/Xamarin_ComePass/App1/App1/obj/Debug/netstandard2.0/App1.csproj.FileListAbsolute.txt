@@ -1,0 +1,30 @@
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\User\Documents\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\bin\Debug\netstandard2.0\App1.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+E:\Babagjyshi\Diploma ComePass\Xamarin\Xamarin_ComePass\App1\App1\obj\Debug\netstandard2.0\App1.pdb

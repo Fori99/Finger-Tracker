@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.LoginPage">    
+    
+    <ContentPage.Content>
+        <StackLayout x:Name="MasterLayout">
+            <StackLayout.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#2196f3" Offset="0.1"/>
+                    <GradientStop Color="#1b1e7b" Offset="1.0"/>
+                </LinearGradientBrush>
+            </StackLayout.Background>
+            <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                <Image x:Name="logoIcon" Source="ft_logo.png" Margin="0, 80, 0, 0"/>
+                <Label x:Name="label_logo" Text="Finger Tracker" TextColor="White" FontSize="Large" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+
+            <StackLayout x:Name="LoginEntries" VerticalOptions="StartAndExpand">
+                <StackLayout.Padding>
+                    <OnIdiom x:TypeArguments="Thickness">
+                        <OnIdiom.Phone>40, 0, 40, 0</OnIdiom.Phone>
+                        <OnIdiom.Tablet>140, 150, 140, 0</OnIdiom.Tablet>
+                    </OnIdiom>
+                </StackLayout.Padding>
+
+                <ActivityIndicator x:Name="activitySpinner" Color="White" IsRunning="True"/>
+
+                
+                <Entry x:Name="entry_username" Placeholder="Email" TextColor="White" PlaceholderColor="White" />
+                <Entry x:Name="entry_password" Placeholder="Password" TextColor="White" PlaceholderColor="White" IsPassword="True"/>
+
+                <Button x:Name="button_signin" Text="Sing In" Clicked="SingInProcedure" CornerRadius="10"/>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
