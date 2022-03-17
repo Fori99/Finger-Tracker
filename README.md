@@ -1,5 +1,5 @@
 # Finger-Tracker
-High School Diploma
+High School Diploma Thesis
 
 ## Description
 This project consists of a package which will enable companies to calculate working hours for each employee. This is achieved by means of a sensor which will recognize the fingerprint of the employees and records the incoming and outgoing schedule from the work environment. All this information will is displayed in a special desktop application for the administrator. At the same time he can add, modify and remove employees as appropriate. Employees can view their personal information on their smartphone.
